@@ -56,7 +56,47 @@ Printing even numbers from 1 to 10:
 
 Reversing of intger value:
 
-1.
+1.start
+
+2.declare num and reversed =0
+
+3.while num !=0
+
+int digit=num%10
+
+reversed=reversed *10+digit
+
+num=num/10
+
+4. display reversed number
+
+5. end
+
+Printing simple pyramid
+
+1.start
+
+2.declare n=5
+
+3.for(int i=1;i<=n;i++) and for(int j=1;j<=n;j++)
+
+4 print'*' in the new lines
+
+5.end
+
+Printing Floyd's Series:
+
+1.start
+
+2.declare n=4 and num = 1
+
+3.for(int i=0;i<n;i++) and for(int j=0;j<n;j++)
+
+4. display " " and num
+
+5. num++
+
+6. end
 
 
 # Conclusion:
